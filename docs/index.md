@@ -12,3 +12,4 @@ Here are some of the projects available right now:
 3. [The Mandukya Upanishad by Swami Sarvapriyananda](https://scivedanta.github.io/mandukya_sarvapriyananda/)
 4. [The Bhagvad Gita by Swami Atmajnanananda](https://scivedanta.github.io/gita_atmapriyananda/)
 5. [The Bhagavatam by Swami Sarvadevananda](https://scivedanta.github.io/bhagavatam_sarvadevananda/)
+6. [The Astvakra's teachings By Swami Brahmarupananda](https://scivedanta.github.io/astvakra_teachings_brahmarupananda/)
