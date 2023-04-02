@@ -7,7 +7,8 @@ please feel free to let us know by opening an issue [here](https://github.com/Sc
 
 Here are some of the projects available right now:
 
-1. [The Gospel of Sri Ramakrishna by Swami Ishatmananda](https://scivedanta.github.io/panchamveda_ishatmananda/)
-2. [The Mandukya Upanishad by Swami Sarvapriyananda](https://scivedanta.github.io/mandukya_sarvapriyananda/)
-3. [The Bhagvad Gita by Swami Atmajnanananda](https://scivedanta.github.io/gita_atmapriyananda/)
-4. [The Bhagavatam by Swami Sarvadevananda](https://scivedanta.github.io/bhagavatam_sarvadevananda/)
+1. [Who Am I? by Swami Sarvapriyananda](https://scivedanta.github.io/Who_Am_I_Sarvapriyananda/)
+2. [The Gospel of Sri Ramakrishna by Swami Ishatmananda](https://scivedanta.github.io/panchamveda_ishatmananda/)
+3. [The Mandukya Upanishad by Swami Sarvapriyananda](https://scivedanta.github.io/mandukya_sarvapriyananda/)
+4. [The Bhagvad Gita by Swami Atmajnanananda](https://scivedanta.github.io/gita_atmapriyananda/)
+5. [The Bhagavatam by Swami Sarvadevananda](https://scivedanta.github.io/bhagavatam_sarvadevananda/)
