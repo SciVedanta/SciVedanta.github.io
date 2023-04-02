@@ -1,4 +1,5 @@
-The Science of Vedanta (SciVedanta) is a collection of YouTube videos on Vedanta philosophy by several eminent monks.
+Vedanta is a science of knowing yourself in depth.
+SciVedanta is a collection of YouTube videos on Vedanta philosophy by several eminent monks.
 The YouTube videos are also converted into text for reference. 
 Note, that the video to text conversion is not 100 % accurate, especially when Hindi/Sanskrit/Bengali etc., words
 are pronounced. We plan to proof-read the texts soon. If you are willing to contribute to this project by editing/proof-reading or have any questions/suggestions, 
