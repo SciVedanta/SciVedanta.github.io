@@ -110,7 +110,8 @@ repo_url: https://github.com/SciVedanta/SciVedanta.github.io
 # | - https://www.mkdocs.org/user-guide/configuration/#theme                                               |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-theme:
+#theme:
+  #palette:
 
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
@@ -123,7 +124,7 @@ theme:
   # | - https://squidfunk.github.io/mkdocs-material/getting-started/                                       |
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
-  name: 'material'
+  #name: 'material'
   #custom_dir: overrides
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
@@ -171,47 +172,40 @@ theme:
   # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-palette-toggle        |
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
+theme:
+  name: 'material'
   palette:
-  
-    # +----------------------------------------------------------------------------------------------------+
-    # |                                                                                                    |
-    # | The "scheme" option is used to define the Color Scheme used by Material.                           |
-    # |                                                                                                    |
-    # | Material offers a "default" and a "slate" scheme. "default" is obviously the default (bright)      |
-    # | Color scheme while "slate" is the native dark theme from Material.                                 |
-    # |                                                                                                    |
-    # | Read More:                                                                                         |
-    # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-scheme              |
-    # |                                                                                                    |
-    # +----------------------------------------------------------------------------------------------------+
-    scheme: 'slate'
-    
-    # +----------------------------------------------------------------------------------------------------+
-    # |                                                                                                    |
-    # | "primary" is used to set the main color of the Material Theme.                                     |
-    # |                                                                                                    |
-    # | The primary color is used on the top banner of the page but also for things like the link color.   |
-    # |                                                                                                    |
-    # | Read More:                                                                                         |
-    # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color             |
-    # |                                                                                                    |
-    # +----------------------------------------------------------------------------------------------------+
-    primary: 'blue'
-    #primary: 'indigo'
-    
-    # +----------------------------------------------------------------------------------------------------+
-    # |                                                                                                    |
-    # | The "accent" is used for moments such as hovering over links.                                      |
-    # |                                                                                                    |
-    # | Read More:                                                                                         |
-    # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#accent-color              |
-    # |                                                                                                    |
-    # +----------------------------------------------------------------------------------------------------+
-    #accent: 'indigo'
-    primary: 'deep orange'
-    #primary: 'light blue'
-    accent: 'light blue'
-    
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: 'deep orange'
+      accent: 'light blue' 
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      #scheme: 
+      primary: 'deep orange'
+      accent: 'light blue' 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: 'deep orange'
+      accent: 'light blue' 
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+ 
+
+    # Palette toggle for automatic mode
+
+ 
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
   # | With the "font" option can you set a different font to use.                                          |
