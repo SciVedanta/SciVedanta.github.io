@@ -14,3 +14,5 @@ Here are some of the projects available right now:
 5. [The Bhagavatam by Swami Sarvadevananda](./bhagavatam_sarvadevananda/)
 6. [The Astvakra's teachings By Swami Brahmarupananda](./astvakra_teachings_brahmarupananda/)
 7. [The Panchadasi by Swami Sarvapriyananda](./panchadasi_sarvapriyananda)
+8. [The Four Yogas by Swami Sarvapriyananda](./four_yogas_sarvapriyananda)
+9. [The Katha Upanishad by Swami Sarvapriyananda](./katha_upanishad_sarvapriyananda)
