@@ -301,7 +301,7 @@ theme:
   
   # Search
   #
-  #- search.highlight # Search will highlight the searched word(s) on the page.*
+  - search.highlight # Search will highlight the searched word(s) on the page.*
   #- search.share     # Adds an option to share a search query link.*
   #- search.suggest   # Search will suggest the likeliest completion for a word.*
   
@@ -520,6 +520,12 @@ markdown_extensions:
   #- pymdownx.tasklist:
   #- pymdownx.tilde:
 
+
+# Plugins
+plugins:
+  - search
+  #- pdf-export #: mkdocs-pdf-export-plugin
+  #- mkpdfs :mkpdfs-mkdocs
 extra_javascript:
   - javascripts/tablesort.min.js
   #- https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js

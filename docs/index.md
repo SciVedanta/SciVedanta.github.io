@@ -13,3 +13,4 @@ Here are some of the projects available right now:
 4. [The Bhagvad Gita by Swami Atmapriyananda](./gita_atmapriyananda/)
 5. [The Bhagavatam by Swami Sarvadevananda](./bhagavatam_sarvadevananda/)
 6. [The Astvakra's teachings By Swami Brahmarupananda](./astvakra_teachings_brahmarupananda/)
+7. [The Panchadasi by Swami Sarvapriyananda](./panchadasi_sarvapriyananda)
