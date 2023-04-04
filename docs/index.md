@@ -5,11 +5,11 @@ SciVedanta is a collection of YouTube videos on Vedanta philosophy by several em
 [Vedanta](https://en.wikipedia.org/wiki/Vedanta) is the science of knowing yourself in depth. Vedanta is one of the world’s most ancient spiritual philosophies and is based on the Vedas.
 
 
-Number of videos: 782
+Number of videos: 908
 
-Number of words captured from videos: 7020689
+Number of words captured from videos: 8115054
 
-Here are some of the projects available right now:
+# Here are some of the projects available right now:
 
 1. [Who Am I? by Swami Sarvapriyananda](./Who_Am_I_Sarvapriyananda/)
 2. [The Gospel of Sri Ramakrishna by Swami Ishatmananda](./panchamveda_ishatmananda/)
@@ -28,8 +28,10 @@ Here are some of the projects available right now:
 15. [The Shanti Gita by Swami Sarvadevananda](./shanti_gita_sarvadevananda)
 16. [Ask Swami Q&A by Swami Sarvapriyananda](./ask_swami_sarvapriyananda)
 17. [The Vedic Christianity By Swami Chidbrahmananda](./vedic_christianity_chidbrahmananda)
+18. [The Gospel of Sri Ramakrishna by Swami Atmajnanananda](./gospel_ramakrishna_atmajnanananda)
 
 
+# Click on the image of a monk/nun for more details about them/their lectures:
 
 <p align="center">
    <a href="./sarvadevananda"><img src="images/sarvadevananda.png" alt="sarvadevananda"  width="200"/></a>
