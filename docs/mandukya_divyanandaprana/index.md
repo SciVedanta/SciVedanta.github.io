@@ -1,0 +1,6 @@
+
+ [The Mandukya Upanishad](https://en.wikipedia.org/wiki/Mandukya_Upanishad) by [Pravrajika Divyanandaprana](https://www.linkedin.com/in/pravrajika-divyanandaprana-a7368a1b8/) 
+
+<!--table_content-->
+
+<!--table_content--><!--table_content--><table style="width:100%" id="j_table"><thead><tr><th>Text</th><th>Video</th></tr></thead><tr><td><a href="./Video-1 " target="_black"> Mandukya Upanishad - 1 by Pravrajika Divyanandaprana</a></td><td><a href="https://www.youtube.com/watch?v=TSV_QDDb8qU " target="_black"> YouTube</a></td></tr><tr><td><a href="./Video-2 " target="_black"> Mandukya Upanishad - 2 by Pravrajika Divyanandaprana</a></td><td><a href="https://www.youtube.com/watch?v=gFAcfkpeqpQ " target="_black"> YouTube</a></td></tr><tr><td><a href="./Video-3 " target="_black"> Mandukya Upanishad - 3 by Pravrajika Divyanandaprana</a></td><td><a href="https://www.youtube.com/watch?v=8sX0yI_9pvA " target="_black"> YouTube</a></td></tr><tr><td><a href="./Video-4 " target="_black"> Mandukya Upanishad - 4 by Pravrajika Divyanandaprana</a></td><td><a href="https://www.youtube.com/watch?v=MEKe1sS2960 " target="_black"> YouTube</a></td></tr><tr><td><a href="./Video-5 " target="_black"> Mandukya Upanishad - 5 by Pravrajika Divyanandaprana</a></td><td><a href="https://www.youtube.com/watch?v=v5fmNlrTSGI " target="_black"> YouTube</a></td></tr></table>
