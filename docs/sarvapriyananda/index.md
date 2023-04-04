@@ -1,0 +1,10 @@
+Lectures By [Swami Sarvapriyananda](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda) 
+
+1. [Who Am I? by Swami Sarvapriyananda](../Who_Am_I_Sarvapriyananda/)
+2. [The Mandukya Upanishad by Swami Sarvapriyananda](../mandukya_sarvapriyananda/)
+3. [The Panchadasi by Swami Sarvapriyananda](../panchadasi_sarvapriyananda)
+4. [The Four Yogas by Swami Sarvapriyananda](../four_yogas_sarvapriyananda)
+5. [The Katha Upanishad by Swami Sarvapriyananda](../katha_upanishad_sarvapriyananda)
+6. [The Drg Drsya Viveka by Swami Sarvapriyananda](../drg_drsya_viveka_sarvapriyananda)
+7. [The Bhagvad Gita by Swami Sarvapriyananda](../gita_sarvapriyananda)
+8. [Ask Swami Q&A by Swami Sarvapriyananda](../ask_swami_sarvapriyananda)

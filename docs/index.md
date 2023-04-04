@@ -30,6 +30,22 @@ Here are some of the projects available right now:
 17. [The Vedic Christianity By Swami Chidbrahmananda](./vedic_christianity_chidbrahmananda)
 
 
+
+<p align="center">
+   <a href="./sarvadevananda"><img src="images/sarvadevananda.png" alt="sarvadevananda"  width="200"/></a>
+   <a href="./sarvapriyananda"><img src="images/sarvapriyananda.png" alt="Sarvapriyananda"  width="200"/></a>
+   <a href="./divyanandaprana"><img src="images/divyanandaprana.png" alt="divyanandaprana"  width="200"/></a>
+   <a href="./ishatmananda"><img src="images/ishatmananda.png" alt="ishatmananda"  width="200"/></a>
+   <a href="./atmajnanananda"><img src="images/atmajnanananda.png" alt="atmajnanananda"  width="200"/></a>
+   <a href="./brahmarupananda"><img src="images/brahmarupananda.png" alt="brahmarupananda"  width="200"/></a>
+   <a href="./chidbrahmananda"><img src="images/chidbrahmananda.png" alt="chidbrahmananda"  width="200"/></a>
+</p>
+
+
+
+
+
+
 Note: the video to text conversion is not 100 % accurate, especially when Hindi/Sanskrit/Bengali etc., word are pronounced. 
 We plan to proof-read the texts soon. 
 This project is still work in progress. If you are willing to contribute to this project by editing/proof-reading or have any questions/suggestions, 
