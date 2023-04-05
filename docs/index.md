@@ -5,9 +5,11 @@ SciVedanta is a collection of YouTube videos on Vedanta philosophy by several em
 [Vedanta](https://en.wikipedia.org/wiki/Vedanta) is the science of knowing yourself in depth. Vedanta is one of the world’s most ancient spiritual philosophies and is based on the Vedas.
 
 
-Number of videos: 1005
+Number of videos: 1,005
 
-Number of words captured from videos: 8833751
+Number of words captured from videos: 8,833,751
+
+Number of Youtube views: 17,811,513
 
 # Here are some of the projects available right now:
 
