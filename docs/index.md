@@ -9,7 +9,7 @@ Number of videos: 1,005
 
 Number of words captured from videos: 8,833,751
 
-Number of Youtube views: 17,811,513
+Number of YouTube views: 17,811,513
 
 # Here are some of the projects available right now:
 

@@ -513,7 +513,7 @@ plugins:
   - search
   #- pdf-export #: mkdocs-pdf-export-plugin
   #- mkpdfs :mkpdfs-mkdocs
-  - print-site #mkdocs-print-site-plugin
+  # - print-site #mkdocs-print-site-plugin
 extra_javascript:
   - javascripts/tablesort.min.js
   #- https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
