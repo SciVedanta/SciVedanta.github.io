@@ -175,32 +175,25 @@ repo_url: https://github.com/SciVedanta/SciVedanta.github.io
 theme:
   name: 'material'
   palette:
+      - media: "(prefers-color-scheme: dark)"
+        scheme: default
+        toggle:
+            icon: material/toggle-switch-off-outline
+            name: Switch to dark mode
+        primary: 'orange'
+        accent: 'light blue'
+        #primary: blue
+        #accent: blue
+      - media: "(prefers-color-scheme: light)"
+        scheme: slate
+        toggle:
+            icon: material/toggle-switch
+            name: Switch to light mode
+        primary: 'orange'
+        accent: 'light blue'
 
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      primary: 'deep orange'
-      accent: 'light blue' 
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      #scheme: 
-      primary: 'deep orange'
-      accent: 'light blue' 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      primary: 'deep orange'
-      accent: 'light blue' 
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
  
 
     # Palette toggle for automatic mode
@@ -520,6 +513,7 @@ plugins:
   - search
   #- pdf-export #: mkdocs-pdf-export-plugin
   #- mkpdfs :mkpdfs-mkdocs
+  - print-site #mkdocs-print-site-plugin
 extra_javascript:
   - javascripts/tablesort.min.js
   #- https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
