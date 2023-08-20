@@ -38,5 +38,5 @@ jobs:
       run: |
         #git config user.name "github-actions[bot]"
         #git config user.email "actions@github.com"
-        #mkdocs build
+        mkdocs build
         mkdocs gh-deploy --force  
