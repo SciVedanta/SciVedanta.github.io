@@ -38,5 +38,24 @@ jobs:
       run: |
         #git config user.name "github-actions[bot]"
         #git config user.email "actions@github.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "actions@github.com"
         mkdocs build
-        mkdocs gh-deploy --force  
+        cp -r site /tmp
+        git fetch
+        git checkout gh-pages --force
+        rm -r *
+        cp -r /tmp/site/* .
+        
+        echo 'listing'
+        ls
+        echo 'listing tmp'
+        ls /tmp
+        git add * */*
+        git commit -m 'Adding files.'
+        git push origin gh-pages -f
+
+
+        
+        #mkdocs build
+        #mkdocs gh-deploy --force  
