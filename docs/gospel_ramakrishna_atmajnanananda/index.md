@@ -1,5 +1,5 @@
 
-  [The Mundaka Upanisad](https://en.wikipedia.org/wiki/Mundaka_Upanishad) [Swami Atmajnanananda](https://en.wikipedia.org/wiki/Swami_Atmajnanananda)
+  [The Gospel of Sri Ramakrishna:](https://estudantedavedanta.net/THE%20GOSPEL%20OF%20SRI%20RAMAKRISHNA.pdf) [lecture videos by Swami Atmajnanananda](https://en.wikipedia.org/wiki/Swami_Atmajnanananda)
 
 <!--table_content-->
 
