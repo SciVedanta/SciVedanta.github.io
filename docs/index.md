@@ -54,6 +54,6 @@ Number of YouTube views: 17,811,513
 
 
 
-Note: the video to text conversion is not completely accurate, especially when Hindi/Sanskrit/Bengali pronunciations. 
+Note: The video-to-text conversion may not be completely accurate, especially with Hindi, Sanskrit, or Bengali pronunciations. 
 This project is still work in progress. If you are willing to contribute to this project by editing/proof-reading or have any questions/suggestions, 
 please feel free to let us know by opening an issue [here](https://github.com/SciVedanta/SciVedanta.github.io/issues/new). If you want to learn about GitHub (great platform to collaborate), checkout this [link](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
